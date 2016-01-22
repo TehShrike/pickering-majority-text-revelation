@@ -1,8 +1,7 @@
 var walk = require('walkdir')
-var Bacon = require('baconjs').Bacon
-var concat = require('concat-stream')
 var fs = require('fs')
 var cheerio = require('cheerio')
+var each = require('async-each')
 
 var startAt = './html/'
 // var fileStream = Bacon.fromNodeCallback(fs.readFile, './html/page2.html', { encoding: 'utf8' })
@@ -11,37 +10,40 @@ var boldNormalSelectorRegex = /\#(f\d) \{ font-family:sans-serif; font-weight:bo
 var bracketsInTextRegex = /^\[(.+)\]$/
 var pathNumberParser = /^.+\/page(\d+)\.html$/
 
-var orderedPathsStream = new Bacon.Bus()
 var walkEmitter = walk(startAt)
 var paths = []
 walkEmitter.on('file', path => paths.push(path))
 walkEmitter.on('end', () => {
-	paths.filter(path => pathNumberParser.test(path)).map(path => {
+	var orderedPaths = paths
+	// .filter(path => /.*page3.html/.test(path))
+	.filter(path => pathNumberParser.test(path)).map(path => {
 		return {
 			path: path,
 			number: parseInt(pathNumberParser.exec(path)[1])
 		}
-	}).sort((a, b) => a.number - b.number).map(o => o.path).forEach(path => orderedPathsStream.push(path))
-	orderedPathsStream.end()
+	}).sort((a, b) => a.number - b.number)
+	.map(o => o.path)
+
+	each(orderedPaths, fs.readFile, (err, allFileContents) => {
+		var output = allFileContents.map(convertHtmlToParsedVerses).reduce((ary, parsed) => ary.concat(parsed), [])
+		console.log(output)
+	})
 })
 
-orderedPathsStream.flatMap(path => {
-	return Bacon.fromNodeCallback(fs.readFile, path, { encoding: 'utf8' })
-}).map(cheerio.load).map(convertCheerioToParsedVerses).forEach(thing => console.log(thing))
-
-function convertCheerioToParsedVerses($) {
-	var boldNormalId = boldNormalSelectorRegex.exec($.html())[1]
+function convertHtmlToParsedVerses(html) {
+	var $ = cheerio.load(html)
+	var boldNormalId = boldNormalSelectorRegex.exec(html)[1]
 
 	var elements = []
 
 	$('body').children('div').each((i, div) => {
 		div = $(div)
-		var boldNormal = boldNormalId === div.attr('id')
 		var left = parseInt(div.css('left'))
 		var prettyOffset = left > 133
 
 		div.children('span').each((i, span) => {
 			span = $(span)
+			var boldNormal = boldNormalId === span.attr('id')
 			var text = span.text()
 			var size = parseInt(span.css('font-size'))
 			var verticalAlign = span.css('vertical-align')
