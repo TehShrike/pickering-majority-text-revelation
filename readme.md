@@ -1,2 +1,1 @@
-# pickering-majority-text-revelation
-[![NPM](https://nodei.co/npm/pickering-majority-text-revelation.png)](https://nodei.co/npm/pickering-majority-text-revelation/)
+Install [xpdf](http://www.foolabs.com/xpdf/download.html) first

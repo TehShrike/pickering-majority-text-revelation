@@ -4,7 +4,7 @@
   "description": "A programmatic version of Pickering's Majority Text translation of Revelation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "convert-to-html": "./convert-to-html.sh"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/TehShrike/pickering-majority-text-revelation/issues"
   },
-  "homepage": "https://github.com/TehShrike/pickering-majority-text-revelation#readme"
+  "homepage": "https://github.com/TehShrike/pickering-majority-text-revelation#readme",
+  "devDependencies": {
+    "baconjs": "0.7.83",
+    "cheerio": "0.19.0",
+    "concat-stream": "1.5.1",
+    "walkdir": "0.0.11"
+  }
 }
