@@ -9,6 +9,7 @@ var startAt = './html/'
 var boldNormalSelectorRegex = /\#(f\d) \{ font-family:sans-serif; font-weight:bold; font-style:normal/
 var bracketsInTextRegex = /^\[(.+)\]$/
 var pathNumberParser = /^.+\/page(\d+)\.html$/
+var integerOnlyRegex = /^\d+\s*$/
 
 var walkEmitter = walk(startAt)
 var paths = []
@@ -26,7 +27,7 @@ walkEmitter.on('end', () => {
 
 	each(orderedPaths, fs.readFile, (err, allFileContents) => {
 		var output = allFileContents.map(convertHtmlToParsedVerses).reduce((ary, parsed) => ary.concat(parsed), [])
-		console.log(output)
+		fs.writeFileSync('./very-basic-parsed.json', JSON.stringify(output))
 	})
 })
 
@@ -51,7 +52,7 @@ function convertHtmlToParsedVerses(html) {
 
 			var type = 'UNKNOWN'
 
-			if (boldNormal && size === 7) {
+			if (((boldNormal && size === 7) || size === 8) && integerOnlyRegex.test(text)) {
 				type = 'chapter number'
 			} else if (prettyOffset && bracketsInText) {
 				type = 'header'
