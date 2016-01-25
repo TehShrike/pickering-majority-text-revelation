@@ -1,3 +1,5 @@
+var fs = require('fs')
+
 var input = require('./very-basic-parsed.json')
 var parseVerse = require('./parse-verse-number')
 
@@ -24,6 +26,7 @@ relevant.forEach(o => {
 		currentVerseNumber = parsedVerseText.verseNumber
 		versesAndNoteReferencesAndHeaders = versesAndNoteReferencesAndHeaders.concat(parsedVerseText.verses.map(o => {
 			return {
+				type: 'verse',
 				verseNumber: o.verseNumber,
 				chapterNumber: currentChapterNumber,
 				text: o.text
@@ -60,9 +63,58 @@ relevant.forEach(o => {
 	}
 })
 
+function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
+	var last = null
+	var combinedVersesAndNoteReferencesAndHeaders = []
+	function addVerseToResult(verse) {
+		combinedVersesAndNoteReferencesAndHeaders.push({
+			type: 'verse',
+			chapterNumber: verse.chapterNumber,
+			verseNumber: verse.verseNumber,
+			text: verse.verseChunks.join(' ')
+		})
+	}
+	versesAndNoteReferencesAndHeaders.forEach(o => {
+		if (last && (o.type !== last.type
+				|| o.verseNumber !== last.verseNumber
+				|| o.chapterNumber !== last.chapterNumber)) {
+			addVerseToResult(last)
+			last = null
+		}
+		if (o.type === 'verse') {
+			if (!last) {
+				last = {
+					type: 'verse',
+					chapterNumber: o.chapterNumber,
+					verseNumber: o.verseNumber,
+					verseChunks: []
+				}
+			}
+			last.verseChunks.push(o.text)
+		} else {
+			combinedVersesAndNoteReferencesAndHeaders.push(o)
+		}
+	})
+	if (last) {
+		addVerseToResult(last)
+	}
+	return combinedVersesAndNoteReferencesAndHeaders
+}
+
+function combineNoteArrays(noteIdentifiersToNotes) {
+	var transformed = {}
+
+	Object.keys(noteIdentifiersToNotes).forEach(identifier => {
+		transformed[identifier] = noteIdentifiersToNotes[identifier].join(' ')
+	})
+
+	return transformed
+}
+
 function unique() {
 	return Math.random().toString().slice(2)
 }
 
-console.log(versesAndNoteReferencesAndHeaders)
-console.log(noteIdentifiersToNotes)
+fs.writeFileSync('./verses-note-references-and-headers.json', JSON.stringify(combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders)))
+fs.writeFileSync('./notes.json', JSON.stringify(combineNoteArrays(noteIdentifiersToNotes)))
+
