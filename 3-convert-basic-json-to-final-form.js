@@ -3,7 +3,7 @@ var fs = require('fs')
 var input = require('./very-basic-parsed.json')
 var parseVerse = require('./parse-verse-number')
 
-var relevant = input.filter(o => o.type !== 'UNKNOWN' && o.text.toLowerCase() !== 'revelation')
+var relevant = input.filter(o => o.type !== 'UNKNOWN' && !(o.text && o.text.toLowerCase() === 'revelation'))
 
 var currentChapterNumber = null
 var currentVerseNumber = null
@@ -20,8 +20,29 @@ function addToNote(text) {
 	noteIdentifiersToNotes[currentNoteIdentifier].push(text)
 }
 
+var paragraphisOpen = false
+
+function startParagraphIfNoneIsOpen() {
+	if (!paragraphisOpen) {
+		paragraphisOpen = true
+		versesAndNoteReferencesAndHeaders.push({
+			type: 'start paragraph'
+		})
+	}
+}
+
+function closeParagraphIfAnyIsOpen() {
+	if (paragraphisOpen) {
+		paragraphisOpen = false
+		versesAndNoteReferencesAndHeaders.push({
+			type: 'end paragraph'
+		})
+	}
+}
+
 relevant.forEach(o => {
 	if (o.type === 'verse') {
+		startParagraphIfNoneIsOpen()
 		var parsedVerseText = parseVerse(currentVerseNumber, o.text)
 		currentVerseNumber = parsedVerseText.verseNumber
 		versesAndNoteReferencesAndHeaders = versesAndNoteReferencesAndHeaders.concat(parsedVerseText.verses.map(o => {
@@ -33,6 +54,7 @@ relevant.forEach(o => {
 			}
 		}))
 	} else if (o.type === 'chapter number') {
+		closeParagraphIfAnyIsOpen()
 		currentChapterNumber = parseInt(o.text)
 		currentVerseNumber = 1
 	} else if (o.type === 'note number') {
@@ -47,6 +69,7 @@ relevant.forEach(o => {
 			identifier: identifier
 		})
 	} else if (o.type === 'verse') {
+		startParagraphIfNoneIsOpen()
 		versesAndNoteReferencesAndHeaders.push({
 			type: 'verse',
 			chapterNumber: currentChapterNumber,
@@ -56,10 +79,13 @@ relevant.forEach(o => {
 	} else if (o.type === 'note') {
 		addToNote(o.text)
 	} else if (o.type === 'header') {
+		closeParagraphIfAnyIsOpen()
 		versesAndNoteReferencesAndHeaders.push({
 			type: 'header',
 			text: o.text
 		})
+	} else if (o.type === 'paragraph break') {
+		closeParagraphIfAnyIsOpen()
 	}
 })
 

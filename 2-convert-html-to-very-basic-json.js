@@ -41,6 +41,7 @@ function convertHtmlToParsedVerses(html) {
 		div = $(div)
 		var left = parseInt(div.css('left'))
 		var prettyOffset = left > 133
+		var singleIndent = left === 133
 
 		div.children('span').each((i, span) => {
 			span = $(span)
@@ -57,14 +58,22 @@ function convertHtmlToParsedVerses(html) {
 			} else if (prettyOffset && bracketsInText) {
 				type = 'header'
 				text = bracketsInText[1]
-			} else if (size === 3 && verticalAlign === 'super') {
-				type = 'note number'
-			} else if (size === 4 && verticalAlign === 'super') {
-				type = 'note reference'
-			} else if (size === 6 && verticalAlign === 'baseline') {
-				type = 'verse'
-			} else if (size === 5 && verticalAlign === 'baseline') {
-				type = 'note'
+			} else {
+				if (singleIndent) {
+					elements.push({
+						type: 'paragraph break'
+					})
+				}
+
+				if (size === 3 && verticalAlign === 'super') {
+					type = 'note number'
+				} else if (size === 4 && verticalAlign === 'super') {
+					type = 'note reference'
+				} else if (size === 6 && verticalAlign === 'baseline') {
+					type = 'verse'
+				} else if (size === 5 && verticalAlign === 'baseline') {
+					type = 'note'
+				}
 			}
 
 			elements.push({
