@@ -4,7 +4,8 @@
   "description": "A programmatic version of Pickering's Majority Text translation of Revelation",
   "main": "index.js",
   "scripts": {
-    "convert-to-html": "./convert-to-html.sh"
+    "convert-to-html": "./convert-to-html.sh",
+    "test": "node test/parse-verse-number-test.js"
   },
   "repository": {
     "type": "git",

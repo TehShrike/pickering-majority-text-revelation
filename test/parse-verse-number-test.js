@@ -1,4 +1,4 @@
-var parseVerse = require('./parse-verse-number')
+var parseVerse = require('../convertor/parse-verse-number')
 var assert = require('assert')
 
 function test(f) {
