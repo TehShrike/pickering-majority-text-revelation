@@ -1,21 +1,21 @@
-var walk = require('walkdir')
-var fs = require('fs')
-var cheerio = require('cheerio')
-var each = require('async-each')
+const walk = require('walkdir')
+const fs = require('fs')
+const cheerio = require('cheerio')
+const each = require('async-each')
 
-var startAt = './html/'
-// var fileStream = Bacon.fromNodeCallback(fs.readFile, './html/page2.html', { encoding: 'utf8' })
+const startAt = './html/'
+// const fileStream = Bacon.fromNodeCallback(fs.readFile, './html/page2.html', { encoding: 'utf8' })
 
-var boldNormalSelectorRegex = /\#(f\d) \{ font-family:sans-serif; font-weight:bold; font-style:normal/
-var bracketsInTextRegex = /^\[(.+)\]$/
-var pathNumberParser = /^.+\/page(\d+)\.html$/
-var integerOnlyRegex = /^\d+\s*$/
+const boldNormalSelectorRegex = /\#(f\d) \{ font-family:sans-serif; font-weight:bold; font-style:normal/
+const bracketsInTextRegex = /^\[(.+)\]$/
+const pathNumberParser = /^.+\/page(\d+)\.html$/
+const integerOnlyRegex = /^\d+\s*$/
 
-var walkEmitter = walk(startAt)
-var paths = []
+const walkEmitter = walk(startAt)
+const paths = []
 walkEmitter.on('file', path => paths.push(path))
 walkEmitter.on('end', () => {
-	var orderedPaths = paths
+	const orderedPaths = paths
 	// .filter(path => /.*page3.html/.test(path))
 	.filter(path => pathNumberParser.test(path)).map(path => {
 		return {
@@ -26,32 +26,33 @@ walkEmitter.on('end', () => {
 	.map(o => o.path)
 
 	each(orderedPaths, fs.readFile, (err, allFileContents) => {
-		var output = allFileContents.map(convertHtmlToParsedVerses).reduce((ary, parsed) => ary.concat(parsed), [])
-		fs.writeFileSync('./very-basic-parsed.json', JSON.stringify(output))
+		const output = allFileContents.map(convertHtmlToParsedVerses).reduce((ary, parsed) => ary.concat(parsed), [])
+		fs.writeFileSync('./very-basic-parsed.json', JSON.stringify(output, null, '\t'))
 	})
 })
 
 function convertHtmlToParsedVerses(html) {
-	var $ = cheerio.load(html)
-	var boldNormalId = boldNormalSelectorRegex.exec(html)[1]
+	const $ = cheerio.load(html)
+	const boldNormalId = boldNormalSelectorRegex.exec(html)[1]
 
-	var elements = []
+	const elements = []
 
 	$('body').children('div').each((i, div) => {
 		div = $(div)
-		var left = parseInt(div.css('left'))
-		var prettyOffset = left > 133
-		var singleIndent = left === 133
+		const left = parseInt(div.css('left'))
+		const prettyOffset = left > 133
+		const singleIndent = left === 133
+		let foundAParagraphAlready = false
 
 		div.children('span').each((i, span) => {
 			span = $(span)
-			var boldNormal = boldNormalId === span.attr('id')
-			var text = span.text()
-			var size = parseInt(span.css('font-size'))
-			var verticalAlign = span.css('vertical-align')
-			var bracketsInText = bracketsInTextRegex.exec(text)
+			const boldNormal = boldNormalId === span.attr('id')
+			let text = span.text()
+			const size = parseInt(span.css('font-size'))
+			const verticalAlign = span.css('vertical-align')
+			const bracketsInText = bracketsInTextRegex.exec(text)
 
-			var type = 'UNKNOWN'
+			let type = 'UNKNOWN'
 
 			if (((boldNormal && size === 7) || size === 8) && integerOnlyRegex.test(text)) {
 				type = 'chapter number'
@@ -59,7 +60,8 @@ function convertHtmlToParsedVerses(html) {
 				type = 'header'
 				text = bracketsInText[1]
 			} else {
-				if (singleIndent) {
+				if (singleIndent && !foundAParagraphAlready) {
+					foundAParagraphAlready = true
 					elements.push({
 						type: 'paragraph break'
 					})

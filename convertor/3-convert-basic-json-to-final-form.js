@@ -1,16 +1,16 @@
-var fs = require('fs')
+const fs = require('fs')
 
-var input = require('./very-basic-parsed.json')
-var parseVerse = require('./parse-verse-number')
+const input = require('../very-basic-parsed.json')
+const parseVerse = require('./parse-verse-number')
 
-var relevant = input.filter(o => o.type !== 'UNKNOWN' && !(o.text && o.text.toLowerCase() === 'revelation'))
+const relevant = input.filter(o => o.type !== 'UNKNOWN' && !(o.text && o.text.toLowerCase() === 'revelation'))
 
-var currentChapterNumber = null
-var currentVerseNumber = null
-var currentNoteIdentifier = null
-var currentNoteNumbersToUniqueIdentifier = {}
-var noteIdentifiersToNotes = {}
-var versesAndNoteReferencesAndHeaders = []
+let currentChapterNumber = null
+let currentVerseNumber = null
+let currentNoteIdentifier = null
+let currentNoteNumbersToUniqueIdentifier = {}
+let noteIdentifiersToNotes = {}
+let versesAndNoteReferencesAndHeaders = []
 
 function addToNote(text) {
 	if (!noteIdentifiersToNotes[currentNoteIdentifier]) {
@@ -20,7 +20,7 @@ function addToNote(text) {
 	noteIdentifiersToNotes[currentNoteIdentifier].push(text)
 }
 
-var paragraphisOpen = false
+let paragraphisOpen = false
 
 function startParagraphIfNoneIsOpen() {
 	if (!paragraphisOpen) {
@@ -43,7 +43,7 @@ function closeParagraphIfAnyIsOpen() {
 relevant.forEach(o => {
 	if (o.type === 'verse') {
 		startParagraphIfNoneIsOpen()
-		var parsedVerseText = parseVerse(currentVerseNumber, o.text)
+		const parsedVerseText = parseVerse(currentVerseNumber, o.text)
 		currentVerseNumber = parsedVerseText.verseNumber
 		versesAndNoteReferencesAndHeaders = versesAndNoteReferencesAndHeaders.concat(parsedVerseText.verses.map(o => {
 			return {
@@ -58,11 +58,11 @@ relevant.forEach(o => {
 		currentChapterNumber = parseInt(o.text)
 		currentVerseNumber = 1
 	} else if (o.type === 'note number') {
-		var number = parseInt(o.text)
+		const number = parseInt(o.text)
 		currentNoteIdentifier = currentNoteNumbersToUniqueIdentifier[number]
 	} else if (o.type === 'note reference') {
-		var number = parseInt(o.text)
-		var identifier = unique()
+		const number = parseInt(o.text)
+		const identifier = unique()
 		currentNoteNumbersToUniqueIdentifier[number] = identifier
 		versesAndNoteReferencesAndHeaders.push({
 			type: 'note reference',
@@ -89,9 +89,11 @@ relevant.forEach(o => {
 	}
 })
 
+closeParagraphIfAnyIsOpen()
+
 function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
-	var last = null
-	var combinedVersesAndNoteReferencesAndHeaders = []
+	let last = null
+	const combinedVersesAndNoteReferencesAndHeaders = []
 	function addVerseToResult(verse) {
 		combinedVersesAndNoteReferencesAndHeaders.push({
 			type: 'verse',
@@ -128,7 +130,7 @@ function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
 }
 
 function combineNoteArrays(noteIdentifiersToNotes) {
-	var transformed = {}
+	const transformed = {}
 
 	Object.keys(noteIdentifiersToNotes).forEach(identifier => {
 		transformed[identifier] = noteIdentifiersToNotes[identifier].join(' ')
@@ -141,6 +143,6 @@ function unique() {
 	return Math.random().toString().slice(2)
 }
 
-fs.writeFileSync('./verses-note-references-and-headers.json', JSON.stringify(combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders)))
-fs.writeFileSync('./notes.json', JSON.stringify(combineNoteArrays(noteIdentifiersToNotes)))
+fs.writeFileSync('./verses-note-references-and-headers.json', JSON.stringify(combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders), null, '\t'))
+fs.writeFileSync('./notes.json', JSON.stringify(combineNoteArrays(noteIdentifiersToNotes), null, '\t'))
 
