@@ -63,3 +63,10 @@ test(t => {
 	t.equal(output.verseNumber, 1)
 	t.equal(output.verses.length, 0)
 })
+
+test(t => {
+	const output = parseVerse(10, ':1 And I heard a loud')
+	t.equal(output.verseNumber, 1)
+	t.equal(output.verses.length, 1)
+	t.equal(output.verses[0].text, 'And I heard a loud')
+})
