@@ -10,6 +10,7 @@ const boldNormalSelectorRegex = /\#(f\d) \{ font-family:sans-serif; font-weight:
 const bracketsInTextRegex = /^\[(.+)\]$/
 const pathNumberParser = /^.+\/page(\d+)\.html$/
 const integerOnlyRegex = /^\d+\s*$/
+const textParenthesesRegex = /parenthesis/i
 
 const walkEmitter = walk(startAt)
 const paths = []
@@ -57,8 +58,10 @@ function convertHtmlToParsedVerses(html) {
 			if (((boldNormal && size === 7) || size === 8) && integerOnlyRegex.test(text)) {
 				type = 'chapter number'
 			} else if (prettyOffset && bracketsInText) {
-				type = 'header'
-				text = bracketsInText[1]
+				if (!textParenthesesRegex.test(text)) {
+					type = 'header'
+					text = bracketsInText[1]
+				}
 			} else {
 				if (singleIndent && !foundAParagraphAlready) {
 					foundAParagraphAlready = true
@@ -67,11 +70,13 @@ function convertHtmlToParsedVerses(html) {
 					})
 				}
 
+				const weirdParentheses = boldNormal && (text === '(' || text === ')')
+
 				if (size === 3 && verticalAlign === 'super') {
 					type = 'note number'
 				} else if (size === 4 && verticalAlign === 'super') {
 					type = 'note reference'
-				} else if (size === 6 && verticalAlign === 'baseline') {
+				} else if (size === 6 && verticalAlign === 'baseline' && !weirdParentheses) {
 					type = 'verse'
 				} else if (size === 5 && verticalAlign === 'baseline') {
 					type = 'note'
