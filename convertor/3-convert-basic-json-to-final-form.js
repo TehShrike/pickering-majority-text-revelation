@@ -11,6 +11,7 @@ let currentNoteIdentifier = null
 let currentNoteNumbersToUniqueIdentifier = {}
 let noteIdentifiersToNotes = {}
 let versesAndNoteReferencesAndHeaders = []
+let lastIdentifier = 0
 
 function addToNote(text) {
 	if (!noteIdentifiersToNotes[currentNoteIdentifier]) {
@@ -140,7 +141,9 @@ function combineNoteArrays(noteIdentifiersToNotes) {
 }
 
 function unique() {
-	return Math.random().toString().slice(2)
+	lastIdentifier++
+
+	return lastIdentifier.toString()
 }
 
 fs.writeFileSync('./verses-note-references-and-headers.json', JSON.stringify(combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders), null, '\t'))
