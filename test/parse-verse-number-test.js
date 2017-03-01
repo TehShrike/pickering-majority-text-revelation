@@ -1,8 +1,8 @@
 var parseVerse = require('../convertor/parse-verse-number')
-var assert = require('assert')
+var assert = require('power-assert')
 
 function test(f) {
-	assert.doesNotThrow(() => f(assert))
+	f(assert)
 }
 
 test(t => {
@@ -69,4 +69,11 @@ test(t => {
 	t.equal(output.verseNumber, 1)
 	t.equal(output.verses.length, 1)
 	t.equal(output.verses[0].text, 'And I heard a loud')
+})
+
+test(t => {
+	const { verseNumber, verses } = parseVerse(10, 'number is 666.')
+	t.equal(verseNumber, 10)
+	t.equal(verses.length, 1)
+	t.equal(verses[0].text, 'number is 666.')
 })

@@ -1,4 +1,4 @@
-const containsVerseNumber = /\d{1,2}/
+const containsVerseNumber = /(^|[^\d])\d{1,2}($|[^\d])/
 const justVerseNumber = /^\s*:(\d{1,2})\s*$/
 
 module.exports = function parseVerse(startingVerseNumber, text) {

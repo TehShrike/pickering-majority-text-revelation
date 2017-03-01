@@ -21,6 +21,7 @@
     "async-each": "1.0.0",
     "cheerio": "0.19.0",
     "html-strings": "0.0.1",
+    "power-assert": "1.4.2",
     "walkdir": "0.0.11"
   }
 }

@@ -13,6 +13,7 @@ write('notes', combineNoteArrays(noteIdentifiersToNotes))
 function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
 	let last = null
 	const combinedVersesAndNoteReferencesAndHeaders = []
+
 	function addVerseToResult(verse) {
 		combinedVersesAndNoteReferencesAndHeaders.push({
 			type: 'verse',
@@ -21,6 +22,7 @@ function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
 			text: verse.verseChunks.join(' ')
 		})
 	}
+
 	versesAndNoteReferencesAndHeaders.forEach(o => {
 		if (last && (o.type !== last.type
 				|| o.verseNumber !== last.verseNumber
