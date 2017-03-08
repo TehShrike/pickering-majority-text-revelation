@@ -205,11 +205,11 @@ function addVerseSectionNumbers(verses) {
 function joinVerseChunks(strings) {
 	return strings.reduce((sentence, string) => {
 		const startsWithPunctuation = /^[\.,]/.test(string)
-		const endsWithDash = /[-—]$/.test(sentence)
+		const startsWithDash = /^[-—]/.test(string)
 
 		const needsLeadingSpace = sentence.length > 0
 			&& !startsWithPunctuation
-			&& !endsWithDash
+			&& !startsWithDash
 
 		const addition = needsLeadingSpace ? (' ' + string) : string
 
@@ -228,9 +228,9 @@ function addParagraphBreaksAndDisplaySpaces(versesNoteReferencesAndHeaders) {
 		const nextChunk = withParagraphBreaks[i + 1]
 		const nextChunkStartsWithDash = nextChunk
 			&& nextChunk.type === 'verse'
-			&& /^\u2014/.test(nextChunk.text)
+			&& /^[\u2014—]/.test(nextChunk.text)
 
-		if (verseChunk.type !== 'verse' || !nextChunkStartsWithDash) {
+		if (verseChunk.type !== 'verse' || nextChunkStartsWithDash) {
 			return verseChunk
 		}
 
