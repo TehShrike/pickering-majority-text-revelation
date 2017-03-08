@@ -4,11 +4,10 @@ const parseVerse = require('./parse-verse-number')
 
 const input = require('../very-basic-parsed.json')
 
-const { versesAndNoteReferencesAndHeaders, noteIdentifiersToNotes } = processBasicDataStructure(input)
+const { versesAndNoteReferencesAndHeaders } = processBasicDataStructure(input)
 
 const appropriatelyChunkedVerses = flatMap(combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders), splitVerseIfNecessary)
 write('verses-note-references-and-headers', addVerseSectionNumbers(appropriatelyChunkedVerses))
-write('notes', combineNoteArrays(noteIdentifiersToNotes))
 
 function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
 	let last = null
@@ -23,7 +22,9 @@ function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
 		})
 	}
 
-	versesAndNoteReferencesAndHeaders.forEach(o => {
+	versesAndNoteReferencesAndHeaders.filter(({ type }) => {
+		return type !== 'note number' && type !== 'note reference'
+	}).forEach(o => {
 		if (last && (o.type !== last.type
 				|| o.verseNumber !== last.verseNumber
 				|| o.chapterNumber !== last.chapterNumber)) {
@@ -48,16 +49,6 @@ function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
 		addVerseToResult(last)
 	}
 	return combinedVersesAndNoteReferencesAndHeaders
-}
-
-function combineNoteArrays(noteIdentifiersToNotes) {
-	const transformed = {}
-
-	Object.keys(noteIdentifiersToNotes).forEach(identifier => {
-		transformed[identifier] = noteIdentifiersToNotes[identifier].join(' ')
-	})
-
-	return transformed
 }
 
 function flatMap(ary, mapFn) {
