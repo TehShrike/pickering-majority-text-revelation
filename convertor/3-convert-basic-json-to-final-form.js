@@ -7,7 +7,7 @@ const input = require('../very-basic-parsed.json')
 const { versesAndNoteReferencesAndHeaders } = processBasicDataStructure(input)
 
 const appropriatelyChunkedVerses = flatMap(combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders), splitVerseIfNecessary)
-write('verses-note-references-and-headers', addParagraphBreaksAndDisplaySpaces(addVerseSectionNumbers(appropriatelyChunkedVerses)))
+write('revelation', addParagraphBreaksAndDisplaySpaces(addVerseSectionNumbers(appropriatelyChunkedVerses)))
 
 function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
 	let last = null

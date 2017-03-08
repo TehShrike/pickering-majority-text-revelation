@@ -1,1 +1,1 @@
-module.exports = require('./verses-note-references-and-headers.json')
+module.exports = require('./revelation.json')
