@@ -19,7 +19,7 @@ function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
 			type: 'verse',
 			chapterNumber: verse.chapterNumber,
 			verseNumber: verse.verseNumber,
-			text: verse.verseChunks.join(' ')
+			text: joinVerseChunks(verse.verseChunks.map(str => str.trim()))
 		})
 	}
 
@@ -208,5 +208,20 @@ function addVerseSectionNumbers(verses) {
 		sectionNumber++
 		lastVerseNumber = chunk.verseNumber
 		return Object.assign({}, chunk, { sectionNumber })
+	})
+}
+
+function joinVerseChunks(strings) {
+	return strings.reduce((sentence, string) => {
+		const startsWithPunctuation = /^[\.,]/.test(string)
+		const endsWithDash = /[-—]$/.test(sentence)
+
+		const needsLeadingSpace = sentence.length > 0
+			&& !startsWithPunctuation
+			&& !endsWithDash
+
+		const addition = needsLeadingSpace ? (' ' + string) : string
+
+		return sentence + addition
 	})
 }
