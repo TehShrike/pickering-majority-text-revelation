@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "convert-to-html": "./convert-to-html.sh",
-    "test": "node test/parse-verse-number-test.js && npm run build",
+    "test": "node test/parse-verse-number-test.js && node test/test-json-file.js",
     "build": "convertor/4-json-to-markdown.js"
   },
   "repository": {
