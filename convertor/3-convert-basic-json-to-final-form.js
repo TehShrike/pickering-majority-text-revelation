@@ -7,7 +7,7 @@ const input = require('../very-basic-parsed.json')
 const { versesAndNoteReferencesAndHeaders } = processBasicDataStructure(input)
 
 const appropriatelyChunkedVerses = flatMap(combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders), splitVerseIfNecessary)
-write('verses-note-references-and-headers', addVerseSectionNumbers(appropriatelyChunkedVerses))
+write('verses-note-references-and-headers', addParagraphBreaksAndDisplaySpaces(addVerseSectionNumbers(appropriatelyChunkedVerses)))
 
 function combineAdjacentVerseChunks(versesAndNoteReferencesAndHeaders) {
 	let last = null
@@ -214,5 +214,26 @@ function joinVerseChunks(strings) {
 		const addition = needsLeadingSpace ? (' ' + string) : string
 
 		return sentence + addition
+	})
+}
+
+function addParagraphBreaksAndDisplaySpaces(versesNoteReferencesAndHeaders) {
+	const withParagraphBreaks = versesNoteReferencesAndHeaders
+	.map(chunk => {
+		return chunk.type === 'end paragraph' ? { type: 'paragraph break' } : chunk
+	})
+	.filter(chunk => chunk.type !== 'start paragraph')
+
+	return withParagraphBreaks.map((verseChunk, i) => {
+		const nextChunk = withParagraphBreaks[i + 1]
+		const nextChunkStartsWithDash = nextChunk
+			&& nextChunk.type === 'verse'
+			&& /^\u2014/.test(nextChunk.text)
+
+		if (verseChunk.type !== 'verse' || !nextChunkStartsWithDash) {
+			return verseChunk
+		}
+
+		return Object.assign({}, verseChunk, { text: verseChunk.text + ' ' })
 	})
 }

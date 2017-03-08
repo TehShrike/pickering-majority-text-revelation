@@ -4,9 +4,6 @@
 		"text": "Introduction"
 	},
 	{
-		"type": "start paragraph"
-	},
-	{
 		"type": "verse",
 		"chapterNumber": 1,
 		"verseNumber": 1,
@@ -28,10 +25,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -48,16 +42,13 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
 		"chapterNumber": 1,
 		"verseNumber": 5,
-		"text": "To Him who loved us and washed us from our sins with His own blood",
+		"text": "To Him who loved us and washed us from our sins with His own blood ",
 		"sectionNumber": 2
 	},
 	{
@@ -68,10 +59,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -81,10 +69,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -94,14 +79,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "John is commissioned"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -160,10 +142,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -194,7 +173,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
@@ -203,9 +182,6 @@
 	{
 		"type": "header",
 		"text": "To Ephesus"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -229,10 +205,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -256,10 +229,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -269,14 +239,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "To Smyrna"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -300,10 +267,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -313,14 +277,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "To Pergamos"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -337,10 +298,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -364,10 +322,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -377,14 +332,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "To Thyatira"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -401,10 +353,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -435,10 +384,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -465,7 +411,7 @@
 		"type": "verse",
 		"chapterNumber": 2,
 		"verseNumber": 27,
-		"text": "and he will shepherd them with a rod of iron; they will be smashed like clay pots",
+		"text": "and he will shepherd them with a rod of iron; they will be smashed like clay pots ",
 		"sectionNumber": 1
 	},
 	{
@@ -476,10 +422,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -489,14 +432,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "To Sardis"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -520,10 +460,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -540,10 +477,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -553,14 +487,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "To Philadelphia"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -591,10 +522,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -611,10 +539,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -624,14 +549,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "To Laodicea"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -676,10 +598,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -696,10 +615,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -709,14 +625,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "“The things that must happen after these”"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -726,14 +639,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The Throne Room"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -771,14 +681,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The four living beings"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -802,14 +709,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The twenty-four elders"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -833,14 +737,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The Lamb takes the scroll"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -871,10 +772,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -898,14 +796,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "A new song"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -929,14 +824,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "All the angels"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -953,14 +845,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Every creature"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -977,7 +866,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
@@ -986,9 +875,6 @@
 	{
 		"type": "header",
 		"text": "The first seal"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1005,14 +891,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The second seal"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1029,14 +912,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The third seal"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1053,14 +933,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The fourth seal"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1077,14 +954,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The fifth seal"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1108,14 +982,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The sixth seal"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1139,10 +1010,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1166,14 +1034,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The sealed of Israel"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1232,14 +1097,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "A multitude from the Great Tribulation"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1256,10 +1118,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1276,10 +1135,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1317,14 +1173,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The seventh seal"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1341,10 +1194,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1375,14 +1225,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The first trumpet"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1392,14 +1239,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The second trumpet"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1416,14 +1260,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The third trumpet"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1440,14 +1281,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The fourth trumpet"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1457,10 +1295,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1470,10 +1305,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1518,10 +1350,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1559,10 +1388,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1572,14 +1398,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The sixth trumpet"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1631,10 +1454,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1651,14 +1471,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "John eats a little book"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1710,10 +1527,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1744,14 +1558,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The two witnesses"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1775,10 +1586,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1802,16 +1610,13 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
 		"chapterNumber": 11,
 		"verseNumber": 7,
-		"text": "When they finish their witness, the Beast of prey that comes up out of the Abyss will make war with them, overcome them and kill them",
+		"text": "When they finish their witness, the Beast of prey that comes up out of the Abyss will make war with them, overcome them and kill them ",
 		"sectionNumber": 1
 	},
 	{
@@ -1822,10 +1627,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1842,10 +1644,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1869,10 +1668,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1882,14 +1678,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The seventh trumpet"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1927,14 +1720,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The woman, the Child, the dragon"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -1951,10 +1741,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1971,10 +1758,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -1991,10 +1775,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -2004,14 +1785,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Satan excluded from heaven"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2056,14 +1834,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Satan persecutes the woman"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2108,7 +1883,7 @@
 		"sectionNumber": 2
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
@@ -2117,9 +1892,6 @@
 	{
 		"type": "header",
 		"text": "A beast from the sea"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2143,10 +1915,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -2184,10 +1953,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -2204,14 +1970,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "A beast from the land"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2270,14 +2033,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The Lamb and the 144,000"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2315,14 +2075,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Three angels"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2339,10 +2096,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -2352,10 +2106,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -2379,10 +2130,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -2399,14 +2147,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The earth is harvested"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2430,10 +2175,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -2464,14 +2206,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Here come the bowls!"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2481,14 +2220,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The song of the victors"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2512,14 +2248,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The angels are commissioned"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2550,10 +2283,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -2563,14 +2293,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The first bowl"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2580,14 +2307,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The second bowl"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2597,14 +2321,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The third bowl"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2635,14 +2356,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The fourth bowl"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2659,14 +2377,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The fifth bowl"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2683,14 +2398,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The sixth bowl"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2728,14 +2440,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The seventh bowl"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2773,14 +2482,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "About Babylon"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2797,14 +2503,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "A woman and a beast"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2835,14 +2538,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The vision explained"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2901,10 +2601,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -2935,14 +2632,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Her fall proclaimed"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -2966,10 +2660,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -3007,14 +2698,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Her fall lamented"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3031,10 +2719,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -3086,10 +2771,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -3113,14 +2795,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Her doom final"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3158,14 +2837,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Her fall celebrated"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3203,14 +2879,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The wedding of the Lamb"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3234,10 +2907,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -3254,14 +2924,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The battle of Armageddon"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3306,14 +2973,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "A feast for vultures"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3330,10 +2994,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -3357,7 +3018,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
@@ -3366,9 +3027,6 @@
 	{
 		"type": "header",
 		"text": "Satan bound"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3392,14 +3050,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Saints reign"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3423,14 +3078,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The final rebellion"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3461,14 +3113,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The Great White Throne"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3506,14 +3155,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "New heaven, new earth"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3544,10 +3190,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -3578,14 +3221,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "The New Jerusalem"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3679,14 +3319,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Her glory"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3731,14 +3368,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Her river"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3776,14 +3410,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Conclusion"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3800,10 +3431,7 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
-	},
-	{
-		"type": "start paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "verse",
@@ -3834,14 +3462,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "Jesus’ final word"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3886,14 +3511,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "A serious warning"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3910,14 +3532,11 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	},
 	{
 		"type": "header",
 		"text": "John signs off"
-	},
-	{
-		"type": "start paragraph"
 	},
 	{
 		"type": "verse",
@@ -3934,6 +3553,6 @@
 		"sectionNumber": 1
 	},
 	{
-		"type": "end paragraph"
+		"type": "paragraph break"
 	}
 ]
