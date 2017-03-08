@@ -1,1 +1,0 @@
-pdftohtml ./Revelation-ff-revised.pdf ./html
