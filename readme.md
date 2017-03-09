@@ -12,7 +12,13 @@ Pickering's translation is licensed [Creative Commons Attribution-ShareAlike 3.0
 
 # Example of the data
 
-The raw data can be found in [revelation.json](./revelation.json).  It is a JSON array that looks like this:
+The raw data can be found in [revelation.json](./revelation.json).
+
+It is published to npm as [revelation](https://www.npmjs.com/package/revelation).
+
+The 1.x version is published to npm as [pickering-majority-text-revelation](https://www.npmjs.com/package/pickering-majority-text-revelation).
+
+It is a JSON array that looks like this:
 
 ```json
 [
