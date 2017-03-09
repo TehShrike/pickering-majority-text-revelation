@@ -14,7 +14,7 @@ Take note, He comes with the clouds, and every eye will see Him, including those
 
 I, John, your brother and companion in the tribulation and kingdom and endurance in Christ Jesus, was on the island called Patmos on account of the Word of God and on account of the testimony of Jesus Christ. I was in spirit on the Lord’s day and I heard a voice behind me, loud as a trumpet, saying, “Write what you see in a book and send it to the seven churches: to Ephesus, to Smyrna, to Pergamos, to Thyatira, to Sardis, to Philadelphia and to Laodicea.” And there I turned to see the voice that was speaking with me. And having turned I saw seven golden lampstands, and in the midst of the seven lampstands one similar to a son of man, clothed down to the feet and girded at the nipples with a golden belt. Now His head, that is His hair, was white, like wool, as white as snow; and His eyes were like a flame of fire; and His feet were like fine brass, as when refined in a furnace; and His voice was like the sound of many waters; and He had seven stars on His right hand and a sharp two-edged sword coming out of His mouth; and His countenance was like the sun shining in its strength. 
 
-And when I saw Him I fell at His feet as if dead. And He placed His right hand upon me saying: “Do not fear. I am the First and the Last, even the Living One—I became dead, to be sure, and now I am living for ever and ever! Oh yes!! And I have the keys of Death and of Hades! Therefore write the things that you have seen, and the things that are, and the things that are going to occur after these. The mystery of the seven stars which you saw upon my right hand, and the seven golden lampstands: the seven stars are the messengers of the seven churches, and the seven lampstands that you saw are seven churches. 
+And when I saw Him I fell at His feet as if dead. And He placed His right hand upon me saying: “Do not fear. I am the First and the Last, even the Living One—I became dead, and behold, now I am living for ever and ever! Oh yes!! And I have the keys of Death and of Hades! Therefore write the things that you have seen, and the things that are, and the things that are about to to occur after these. The mystery of the seven stars which you saw upon my right hand, and the seven golden lampstands: the seven stars are the messengers of the seven churches, and the seven lampstands that you saw are seven churches. 
 
 # The seven letters
 
@@ -34,9 +34,9 @@ And when I saw Him I fell at His feet as if dead. And He placed His right hand u
 
 # To Pergamos
 
-“And to the messenger of the church in Pergamos write: These things says He who has the sharp two-edged sword: ‘I know your works, and where you live, where Satan’s throne is. And you hold my name fast and did not deny my faith during the days in which Antipas was my faithful witness, who was killed among you, where Satan lives. 
+“And to the messenger of the church in Pergamos write: These things says He who has the sharp two-edged sword: ‘I know your works, and where you live, where Satan’s throne is. And you hold fast to my name and did not deny my faith during the days in which Antipas was my faithful witness, who was killed among you, where Satan lives. 
 
-‘Nevertheless I have a few things against you, because you have there adepts of the doctrine of Balaam, who taught Balak to throw a stumbling block before the sons of Israel, to eat things offered to idols and to fornicate. Thus you also have adepts of the doctrine of the Nicolaitans as well. Repent! Or else I will come at you swiftly and will fight against them with the sword of my mouth.’ 
+‘Nevertheless I have a few things against you, because you have there those who hold fast to the doctrine of Balaam, who taught Balak to throw a stumbling block before the sons of Israel, to eat things offered to idols and to fornicate. Thus you also have those who hold fast to the doctrine of the Nicolaitans as well. Repent! Or else I will come at you swiftly and will fight against them with the sword of my mouth.’ 
 
 “He who has an ear let him hear what the Spirit is saying to the churches. To the one who overcomes I will grant to eat from the hidden manna. And I will give him a white pebble, and on the pebble a new name written, which no one knows except the receiver. 
 
@@ -70,17 +70,17 @@ And when I saw Him I fell at His feet as if dead. And He placed His right hand u
 
 “And to the messenger of the church in Laodicea write: These things says the Amen, the faithful and true witness, the Originator of God’s creation: ‘I know your works, that you are neither cold nor hot. I could wish you were cold or hot. So then, since you are lukewarm, and neither hot nor cold, I am about to vomit you out of my mouth. Because you say, “I am rich, even become wealthy, and have need of nothing”, and do not realize that you are the most wretched—yes, the most pitiable and poor and blind and naked— I counsel you to buy gold from me, refined by fire, so that you may become rich; and white garments, so that you may be clothed, and your nakedness not be shamefully exposed; and anoint your eyes with eye salve, so that you may see. As many as I love I rebuke and discipline; so be zealous and repent! 
 
-‘Now then, I stand at the door and knock. If anyone should hear my voice and open the door, I really will come in to him and eat with him, and he with me. To the one who overcomes I will grant to sit with me on my throne, just as I overcame and sat down with my Father on His throne.’ 
+‘Behold, I stand at the door and knock. If anyone should hear my voice and open the door, I really will come in to him and eat with him, and he with me. To the one who overcomes I will grant to sit with me on my throne, just as I overcame and sat down with my Father on His throne.’ 
 
 “He who has an ear let him hear what the Spirit is saying to the churches.” 
 
 # “The things that must happen after these”
 
-After these things I looked and wow—a door standing open in the sky, and the first voice that I heard, like a trumpet speaking with me, saying, “Come up here and I will show you the things that must take place after these.” 
+After these things I looked and behold, a door standing open in the sky, and the first voice that I heard, like a trumpet speaking with me, saying, “Come up here and I will show you the things that must take place after these.” 
 
 # The Throne Room
 
-And immediately I was in spirit, and there, a throne set in heaven (and One sitting on the throne) similar in appearance to a stone, jasper and carnelian, and there was a rainbow around the throne, similar in appearance to an emerald. And around the throne were twenty-four thrones, and on the thrones I saw the twenty-four elders sitting, clothed in white robes and golden crowns on their heads. And out of the throne came lightnings and noises and thunders; and seven lamps of fire were burning before His throne, which are seven spirits of God; and before the throne it was like a sea of glass, similar to crystal. 
+And immediately I was in spirit, and behold, a throne set in heaven (and One sitting on the throne) similar in appearance to a stone, jasper and carnelian, and there was a rainbow around the throne, similar in appearance to an emerald. And around the throne were twenty-four thrones, and on the thrones I saw the twenty-four elders sitting, clothed in white robes and golden crowns on their heads. And out of the throne came lightnings and noises and thunders; and seven lamps of fire were burning before His throne, which are seven spirits of God; and before the throne it was like a sea of glass, similar to crystal. 
 
 # The four living beings
 
@@ -112,7 +112,7 @@ And every creature which is in the heaven and upon the earth and under the earth
 
 # The first seal
 
-And I saw that the Lamb opened one of the seven seals, and I heard one of the four living beings saying, like a voice of thunder, “Come!” And I looked and, wow, a white horse! And he who sat on it had a bow. And a crown was given to him; and he went out conquering, that is, in order to conquer. 
+And I saw that the Lamb opened one of the seven seals, and I heard one of the four living beings saying, like a voice of thunder, “Come!” And I looked and, behold, a white horse! And he who sat on it had a bow. And a crown was given to him; and he went out conquering, that is, in order to conquer. 
 
 # The second seal
 
@@ -120,11 +120,11 @@ And when He opened the second seal I heard the second living being saying, “Co
 
 # The third seal
 
-And when He opened the third seal I heard the third living being saying, “Come!” And I looked and, wow, a black horse! And he who sat on it had a pair of scales in his hand. And I heard a voice in the midst of the four living beings saying: “A ‘quart’ of wheat for a denarius and three ‘quarts’ of barley for a denarius; but do not harm the olive oil and the wine.” 
+And when He opened the third seal I heard the third living being saying, “Come!” And I looked and, behold, a black horse! And he who sat on it had a pair of scales in his hand. And I heard a voice in the midst of the four living beings saying: “A ‘quart’ of wheat for a denarius and three ‘quarts’ of barley for a denarius; but do not harm the olive oil and the wine.” 
 
 # The fourth seal
 
-And when He opened the fourth seal I heard a voice from the fourth living being saying, “Come!” And I looked and, wow, a sickly pale horse! And as for the one sitting upon it, his name is Death, and Hades follows with him. And authority was given to him over a fourth of the earth, to kill by sword and by famine and by death, also by the wild animals of the earth. 
+And when He opened the fourth seal I heard a voice from the fourth living being saying, “Come!” And I looked and, behold, a sickly pale horse! And as for the one sitting upon it, his name is Death, and Hades follows with him. And authority was given to him over a fourth of the earth, to kill by sword and by famine and by death, also by the wild animals of the earth. 
 
 # The fifth seal
 
@@ -142,7 +142,7 @@ And after this I saw four angels standing on the four corners of the earth, hold
 
 # A multitude from the Great Tribulation
 
-After these things I looked, and wow, a great multitude that no one could number, from all ethnic nations and tribes and peoples and languages, standing before the Throne and before the Lamb, clothed with white robes and having palm branches in their hands. And they shouted with a loud voice saying, “Saved by our God who sits on the throne, and by the Lamb!” 
+After these things I looked, and behold, a great multitude that no one could number, from all ethnic nations and tribes and peoples and languages, standing before the Throne and before the Lamb, clothed with white robes and having palm branches in their hands. And they shouted with a loud voice saying, “Salvation belongs to our God who sits on the throne, and by the Lamb!” 
 
 And all the angels stood around the Throne, and the elders and the four living beings, and they fell down before the Throne, on their faces, and worshipped God, saying: “Amen! The blessing and the glory and the wisdom and the thanksgiving and the honor and the power and the strength to our God for ever and ever! Amen.” 
 
@@ -176,7 +176,7 @@ So the fifth angel trumpeted, and I saw a ‘star’ that had fallen out of the 
 
 Now the appearance of the ‘locusts’ was like horses prepared for battle, and something like a golden crown was on their heads, and their faces were like human faces. They had hair like a woman’s and their teeth were like a lion’s. They had breastplates like breastplates of iron and the noise of their wings was like the noise of many chariots with horses rushing into battle. And, they have tails like scorpions and stingers precisely in those tails! They have the capability to hurt the populace five months, having as king over them the angel of the Abyss—his name in Hebrew is Abbaddon, while in Greek he has the name Apollyon. 
 
-The first woe is past, but, two woes are still coming, after these things. 
+The first woe is past, behold, two woes are still coming, after these things. 
 
 # The sixth trumpet
 
@@ -186,13 +186,13 @@ Yet the rest of the people, those who were not killed by these plagues, did not 
 
 # John eats a little book
 
-I saw a mighty angel descending out of heaven, clothed with a cloud, and the rainbow on his head; his face was like the sun and his feet like pillars of fire; and he had a little book open in his hand. He placed his right foot on the sea and his left on the land, and he cried out with a loud voice, just like a lion roars. And when he cried out, the seven thunders uttered their own voices. Now when the seven thunders spoke I was about to write, but I heard a voice out of heaven saying, “Seal up the things that the seven thunders said”, and “You write after these things”. And the angel whom I saw standing on the sea and on the land raised his right hand to the heaven and swore by Him who lives forever and ever, who created the heaven and the things in it, and the earth and the things in it, and the sea and the things in it, that there would be no further delay, but in the days of the blast of the seventh angel, whenever he should trumpet, the mystery of God which was announced to His slaves the prophets would be finished. 
+I saw a mighty angel descending out of heaven, clothed with a cloud, and the rainbow on his head; his face was like the sun and his feet like pillars of fire; and he had a little book open in his hand. He placed his right foot on the sea and his left on the land, and he cried out with a loud voice, just like a lion roars. And when he cried out, the seven thunders uttered their own voices. Now when the seven thunders spoke I was about to write, but I heard a voice out of heaven saying, “Seal up the things that the seven thunders said”, and “You write after these things”. And the angel whom I saw standing on the sea and on the land raised his right hand to the heaven and swore by Him who lives forever and ever, who created the heaven and the things in it, and the earth and the things in it, and the sea and the things in it, that there would be no further delay, but in the days of the blast of the seventh angel, when he is about to trumpet, the mystery of God which was announced to His slaves the prophets would be finished. 
 
 Now the voice that I heard out of heaven was speaking to me again and saying: “Go, take the little book that is open in the hand of the angel who is standing on the sea and on the land.” So I went to the angel and said to him, “Give me the little book”, and he says to me: “Take and eat it up; it will make your stomach bitter, but in your mouth it will be as sweet as honey.” So I took the little book out of the angel’s hand and ate it up, and it was as sweet as honey in my mouth. But when I had eaten it my stomach was made bitter. And he said to me, “You must prophesy again over many peoples, even over ethnic nations and languages and kings.” 
 
 # The two witnesses
 
-I was given a reed like a measuring rod. And the angel stood saying: “Rise and measure the temple of God and the altar, and those who worship there. But leave out the outer court of the temple and do not measure it, because it has been given to the nations; and they will trample the holy city for forty-two months. And I will give authority to my two witnesses, and they will prophesy one thousand two hundred and sixty days, clothed in sackcloth.” 
+I was given a reed like a measuring rod. And the angel stood saying: “Rise and measure the temple of God and the altar, and those who are worshiping there. But leave out the outer court of the temple and do not measure it, because it has been given to the nations; and they will trample the holy city for forty-two months. And I will give authority to my two witnesses, and they will prophesy one thousand two hundred and sixty days, clothed in sackcloth.” 
 
 These are the two olive trees, even the two lampstands that stand before the Lord of the earth. And if anyone wants to harm them fire comes out of their mouths and consumes their enemies. So if anyone wants to harm them he must be killed in this way. They have authority to shut up the sky so that no rain falls during the days of their prophecy; and they have authority over the waters to turn them into blood, and to strike the earth with every plague, as often as they wish. 
 
@@ -202,7 +202,7 @@ And those from the peoples, tribes, languages and ethnic nations look at their c
 
 And after three-and-a-half days a breath of life from God entered them and they stood on their feet, and a great fear fell on those who were watching them. And I heard a loud voice from the heaven saying to them, “Come up here!” And they went up to heaven in a cloud, and their enemies watched them. And in that day there was a severe earthquake and a tenth of the city fell, and seven thousand individuals were killed in the earthquake. And the rest became fearful and gave glory to the God of heaven. 
 
-The second woe is past. Look out, here comes the third woe! 
+The second woe is past. Behold, here comes the third woe! 
 
 # The seventh trumpet
 
@@ -212,9 +212,9 @@ So the seventh angel trumpeted, and there were loud voices in heaven saying: “
 
 A great sign appeared in the sky: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars. And being pregnant she was crying out in labor, being in great pain to give birth. 
 
-And another sign appeared in the sky: wow, a dragon, huge, fiery red, having seven heads and ten horns, with seven diadems on his heads. And its tail grabbed a third of the stars of heaven and threw them to the earth. 
+And another sign appeared in the sky: behold, a dragon, huge, fiery red, having seven heads and ten horns, with seven diadems on his heads. And its tail grabbed a third of the stars of heaven and threw them to the earth. 
 
-And the dragon stood before the woman who was about to give birth in order to devour her Child as soon as she gave birth. And she bore a Son, a male, who would shepherd all the nations with a rod of iron. And her Child was snatched up to God, even to His throne. 
+And the dragon stood before the woman who was about to give birth in order to devour her Child as soon as she gave birth. And she bore a Son, a male, who was about to shepherd all the nations with a rod of iron. And her Child was snatched up to God, even to His throne. 
 
 And the woman fled into the wilderness to where she has a place prepared by God, so that they may nourish her there one thousand two hundred and sixty days. 
 
@@ -242,7 +242,7 @@ Now I saw another beast of prey coming up out of the land, and he had two horns 
 
 # The Lamb and the 144,000
 
-And wow, I saw a Lamb standing on Mount Zion, and with Him one hundred and forty-four thousand, having His name and His Father’s name written on their foreheads. And I heard a sound from the sky, like the sound of many waters, and like the sound of loud thunder; and the sound that I heard was like harpists playing on their harps. And they sing a new song before the Throne, and before the four living beings and the elders; and no one was able to learn the song except the 144 thousand, who had been redeemed from the earth. These are the ones not defiled with women, for they are virgins; these are the ones who follow the Lamb wherever He may go. These were redeemed by Jesus from among men, firstfruits for God and for the Lamb; no lie was found in their mouth, for they are blameless. 
+And behold, I saw a Lamb standing on Mount Zion, and with Him one hundred and forty-four thousand, having His name and His Father’s name written on their foreheads. And I heard a sound from the sky, like the sound of many waters, and like the sound of loud thunder; and the sound that I heard was like harpists playing on their harps. And they sing a new song before the Throne, and before the four living beings and the elders; and no one was able to learn the song except the 144 thousand, who had been redeemed from the earth. These are the ones not defiled with women, for they are virgins; these are the ones who follow the Lamb wherever He may go. These were redeemed by Jesus from among men, firstfruits for God and for the Lamb; no lie was found in their mouth, for they are blameless. 
 
 # Three angels
 
@@ -256,7 +256,7 @@ Here is the endurance of the saints, here those who keep the commands of God and
 
 # The earth is harvested
 
-And wow, I saw a white cloud, and someone like a son of man was sitting on the cloud, having on his head a golden crown, and in his hand a sharp sickle. And another angel came out of the temple crying out with a loud voice to the one sitting on the cloud, “Thrust in your sickle and reap, for the time to reap has come, because the harvest of the earth is dry”. So the one sitting on the cloud swung his sickle upon the earth, and the earth was harvested. 
+And behold, I saw a white cloud, and someone like a son of man was sitting on the cloud, having on his head a golden crown, and in his hand a sharp sickle. And another angel came out of the temple crying out with a loud voice to the one sitting on the cloud, “Thrust in your sickle and reap, for the time to reap has come, because the harvest of the earth is dry”. So the one sitting on the cloud swung his sickle upon the earth, and the earth was harvested. 
 
 Then another angel came out of the temple (the one in heaven), he too having a sharp sickle. And another angel came out from the altar (having authority over the fire), and he called out with a loud cry to the one having the sharp sickle saying, “Thrust in your sharp sickle and gather the grape clusters of the vine of the earth, because her grapes are ripe”. So the angel swung his sickle at the earth and gathered the vine of the earth and threw it into the winepress of God’s terrible fury. And the winepress was trampled outside the city, and blood came out of the winepress up to the horses’ bridles, for a thousand six hundred stadia. 
 
@@ -296,7 +296,7 @@ Then the fifth angel poured out his bowl on the throne of the Beast, and his kin
 
 # The sixth bowl
 
-Then the sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, so that the way for the kings from the sun’s rising might be prepared. And I saw three unclean spirits, like frogs, coming out of the mouth of the dragon, out of the mouth of the Beast, and out of the mouth of the false prophet. For they are spirits of demons, performing signs, which go out to the kings of the whole inhabited earth, to gather them to the battle of that great day of God Almighty. (“Watch out, I am coming like a thief. Blessed is the one who watches and guards his clothes, so that he not walk about naked and they see his shame.”) So he gathered them to the place called in Hebrew, Armagedon. 
+Then the sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, so that the way for the kings from the sun’s rising might be prepared. And I saw three unclean spirits, like frogs, coming out of the mouth of the dragon, out of the mouth of the Beast, and out of the mouth of the false prophet. For they are spirits of demons, performing signs, which go out to the kings of the whole inhabited earth, to gather them to the battle of that great day of God Almighty. (“Behold, I am coming like a thief. Blessed is the one who watches and guards his clothes, so that he not walk about naked and they see his shame.”) So he gathered them to the place called in Hebrew, Armagedon. 
 
 # The seventh bowl
 
@@ -346,7 +346,7 @@ And he says to me, “Write: ‘Blessed are those who are invited to the wedding
 
 # The battle of Armageddon
 
-I saw the heaven opened, and wow, a white horse! And the One who sits on it, called Faithful and True, both judges and makes war with righteousness. Now His eyes were a flame of fire and on His head were many diadems, having names written, besides a written name that no one knows except Himself; and He was clothed with a robe that had been dipped in blood, and His name is called The Word of God. And the armies in heaven, clothed in fine linen, white, clean, followed Him on white horses. And out of His mouth goes a sharp, two-edged sword, so that with it He may strike the nations. And He Himself will shepherd them with a rod of iron. And He Himself treads the winepress of the fury of the wrath of God, the Almighty. And He has a name written on His robe and on His thigh, King of kings and Lord of lords! 
+I saw the heaven opened, and behold, a white horse! And the One who sits on it, called Faithful and True, both judges and makes war with righteousness. Now His eyes were a flame of fire and on His head were many diadems, having names written, besides a written name that no one knows except Himself; and He was clothed with a robe that had been dipped in blood, and His name is called The Word of God. And the armies in heaven, clothed in fine linen, white, clean, followed Him on white horses. And out of His mouth goes a sharp, two-edged sword, so that with it He may strike the nations. And He Himself will shepherd them with a rod of iron. And He Himself treads the winepress of the fury of the wrath of God, the Almighty. And He has a name written on His robe and on His thigh, King of kings and Lord of lords! 
 
 # A feast for vultures
 
@@ -374,9 +374,9 @@ Then I saw a tremendous white throne and the One who sat on it, from whose face 
 
 # New heaven, new earth
 
-Now I saw a new heaven and a new earth, because the first heaven and the first earth had passed away; also, the ocean was no more. And I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband. And I heard a loud voice from heaven saying: “Take note, the tabernacle of God is with men and He will dwell with them, and they will be His people. Yes, God Himself will be with them. And He will wipe away every tear from their eyes; there will be no more death nor sorrow nor crying nor pain—they will exist no more because the first things have gone.” 
+Now I saw a new heaven and a new earth, because the first heaven and the first earth had passed away; also, the ocean was no more. And I saw the holy city, New Jerusalem, coming down out of heaven from God, prepared like a bride adorned for her husband. And I heard a loud voice from heaven saying: “Behold, the tabernacle of God is with men and He will dwell with them, and they will be His people. Yes, God Himself will be with them. And He will wipe away every tear from their eyes; there will be no more death nor sorrow nor crying nor pain—they will exist no more because the first things have gone.” 
 
-Then He who sat on the throne said, “Take note, I make everything new!” And He says to me, “Write, because these words are true and faithful!” Then He said to me: “I have become the Alpha and the Omega, the Beginning and the End. To the one who thirsts I will give of the spring of the water of Life freely. He who overcomes will inherit these things, and I will be God to him and he will be a son to me. But as for the cowardly and unbelieving and sinners and abominable and murderers and fornicators and sorcerers and idolaters, and all who are false, their portion is in the Lake that burns with fire and brimstone, which is the second death.” 
+Then He who sat on the throne said, “Behold, I make everything new!” And He says to me, “Write, because these words are true and faithful!” Then He said to me: “I have become the Alpha and the Omega, the Beginning and the End. To the one who thirsts I will give of the spring of the water of Life freely. He who overcomes will inherit these things, and I will be God to him and he will be a son to me. But as for the cowardly and unbelieving and sinners and abominable and murderers and fornicators and sorcerers and idolaters, and all who are false, their portion is in the Lake that burns with fire and brimstone, which is the second death.” 
 
 # The New Jerusalem
 
@@ -392,13 +392,13 @@ And he showed me a pure river of water of life, bright as crystal, proceeding fr
 
 # Conclusion
 
-Then He says to me: “These words are faithful and true. The Lord God of the spirits of the prophets sent His angel to show to His slaves the things that must shortly take place. Take note, I am coming swiftly! Blessed is the one who keeps the words of the prophecy of this book.” 
+Then He says to me: “These words are faithful and true. The Lord God of the spirits of the prophets sent His angel to show to His slaves the things that must shortly take place. Behold, I am coming swiftly! Blessed is the one who keeps the words of the prophecy of this book.” 
 
 Now I, John, who heard and saw these things, when I had heard and seen I fell down to worship at the feet of the angel who showed me these things, but he says to me: “Don’t! I am your fellow slave and of your brothers the prophets, those who keep the words of this book. Worship God!” Then he says to me: “Do not seal the words of the prophecy of this book, for the time is near. He who acts unjustly let him act unjustly still, and let the filthy one be filthy still, and let the righteous one still practice righteousness, and let the holy one still be sanctified.” 
 
 # Jesus’ final word
 
-“Take note, I am coming swiftly, and my reward is with me to give to each one according to his work. I am the Alpha and the Omega, beginning and end, the First and the Last.” (Blessed are those who do His commands, so that they may have the right to the tree of life, even to enter through the gates into the city. Outside are the ‘dogs’ and the sorcerers and the fornicators and the murderers and the idolaters, and everyone who loves and practices a lie.) “I, Jesus, have sent my angel to testify these things to you, in the churches. I am the Root and the Offspring of David, the bright morning Star. Both the Spirit and the Bride say, ‘Come!’ And let whoever hears say, ‘Come!’ And let whoever thirsts come; whoever wants to, let him take the water of life free of charge. 
+“Behold, I am coming swiftly, and my reward is with me to give to each one according to his work. I am the Alpha and the Omega, beginning and end, the First and the Last.” (Blessed are those who do His commands, so that they may have the right to the tree of life, even to enter through the gates into the city. Outside are the ‘dogs’ and the sorcerers and the fornicators and the murderers and the idolaters, and everyone who loves and practices a lie.) “I, Jesus, have sent my angel to testify these things to you, in the churches. I am the Root and the Offspring of David, the bright morning Star. Both the Spirit and the Bride say, ‘Come!’ And let whoever hears say, ‘Come!’ And let whoever thirsts come; whoever wants to, let him take the water of life free of charge. 
 
 # A serious warning
 

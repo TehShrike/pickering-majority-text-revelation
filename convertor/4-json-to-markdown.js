@@ -12,4 +12,4 @@ const markdown = json.map(chunk => {
 	}
 }).join('')
 
-require('fs').writeFileSync('../revelation.md', markdown)
+require('fs').writeFileSync('./revelation.md', markdown)
