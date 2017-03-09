@@ -1,6 +1,6 @@
 A fork of Wilbur Pickering's Majority Text translation of Revelation.
 
-For the programmatic version of Pickering's translation with his notes and without any alterations, see [the 1.x branch](https://github.com/TehShrike/pickering-majority-text-revelation/tree/1.x).
+For the programmatic version of Pickering's translation with his notes and without any alterations, see [the pickering-unaltered branch](https://github.com/TehShrike/pickering-majority-text-revelation/tree/pickering-unaltered).
 
 This translation is based on Pickering's revised translation, which can be downloaded from his web site [prunch.org](http://www.prunch.org/new-translation-of-the-nt.php).
 
@@ -16,7 +16,7 @@ The raw data can be found in [revelation.json](./revelation.json).
 
 It is published to npm as [revelation](https://www.npmjs.com/package/revelation).
 
-The 1.x version is published to npm as [pickering-majority-text-revelation](https://www.npmjs.com/package/pickering-majority-text-revelation).
+The pickering-unaltered version is published to npm as [pickering-majority-text-revelation](https://www.npmjs.com/package/pickering-majority-text-revelation).
 
 It is a JSON array that looks like this:
 
