@@ -1,6 +1,6 @@
 {
   "name": "revelation",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A programmatic version of Pickering's Majority Text translation of Revelation",
   "main": "index.js",
   "scripts": {
