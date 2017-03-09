@@ -6,7 +6,7 @@
   "scripts": {
     "convert-to-html": "./convert-to-html.sh",
     "test": "node test/parse-verse-number-test.js && node test/test-json-file.js",
-    "build": "convertor/4-json-to-markdown.js"
+    "build": "node convertor/4-json-to-markdown.js"
   },
   "repository": {
     "type": "git",
