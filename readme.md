@@ -1,5 +1,9 @@
 A fork of Wilbur Pickering's Majority Text translation of Revelation.
 
+To suggest changes to the translation, edit [revelation.json](https://github.com/TehShrike/pickering-majority-text-revelation/blob/master/revelation.json).
+
+# Minutia
+
 For the programmatic version of Pickering's translation with his notes and without any alterations, see [the 1.x branch](https://github.com/TehShrike/pickering-majority-text-revelation/tree/1.x).
 
 This translation is based on Pickering's revised translation, which can be downloaded from his web site [prunch.org](http://www.prunch.org/new-translation-of-the-nt.php).
