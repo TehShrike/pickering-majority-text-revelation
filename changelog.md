@@ -1,3 +1,7 @@
+# 2.0.2
+
+- [`e75eda86`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/e75eda864cd4f4469533c074292f8bdd8241cccf): Adding "and" to 14:6
+
 # 2.0.1
 
 - [`2b46bfaa`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/2b46bfaa9c610ec1849653e791f27ddd499cb0ce): Consistency in translating κρατέω

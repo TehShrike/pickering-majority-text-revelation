@@ -246,7 +246,7 @@ And behold, I saw a Lamb standing on Mount Zion, and with Him one hundred and fo
 
 # Three angels
 
-And I saw another angel flying in mid-heaven, having an eternal gospel to be proclaimed to those who reside on the earth—to every ethnic nation and tribe and language and people— saying with a loud voice, “Fear God and give Him glory, because the hour of His judging has come, and do obeisance to Him who made heaven and earth, the ocean and springs of water.” 
+And I saw another angel flying in mid-heaven, having an eternal gospel to be proclaimed to those who reside on the earth, and to every ethnic nation and tribe and language and people— saying with a loud voice, “Fear God and give Him glory, because the hour of His judging has come, and do obeisance to Him who made heaven and earth, the ocean and springs of water.” 
 
 And another, a second, angel followed, saying: “It fell, it fell, Babylon the great!— she made all the nations drink of the wine of the rage of her fornication.” 
 
