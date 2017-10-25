@@ -252,7 +252,7 @@ And another, a second, angel followed, saying: “It fell, it fell, Babylon the 
 
 And another angel, a third, followed them, saying with a loud voice: “If anyone worships the Beast and his image, and receives a mark on his forehead or on his hand, really, he will drink of the wine of the fury of God, mixed at full strength in the cup of His wrath. In fact, he will be tormented with fire and sulfur before the holy angels and before the Lamb.” So the smoke of their torment goes up forever and ever, and they have no rest day or night, those who worship the Beast and his image, and whoever receives the mark of his name. 
 
-Here is the endurance of the saints, here those who keep the commands of God and the faith of Jesus. I heard a voice from heaven saying to me, “Write: ‘Blessed are the dead who die in the Lord from now on’ (“Yes” says the Spirit), ‘so that they may rest from their labors, and their works follow along with them’.” 
+Here is the endurance of the saints, here are those who keep the commands of God and the faith of Jesus. I heard a voice from heaven saying to me, “Write: ‘Blessed are the dead who die in the Lord from now on’ (“Yes” says the Spirit), ‘so that they may rest from their labors, and their works follow along with them’.” 
 
 # The earth is harvested
 

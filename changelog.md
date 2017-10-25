@@ -1,3 +1,7 @@
+# 2.0.3
+
+- [`5c33991b`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/5c33991be7f29686ce5cfe174e6a0f9a2806828b): Fixing typo, adding "are"
+
 # 2.0.2
 
 - [`e75eda86`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/e75eda864cd4f4469533c074292f8bdd8241cccf): Adding "and" to 14:6
