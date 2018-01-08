@@ -1,3 +1,8 @@
+# 2.0.4
+
+- [`a1f9e18c`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/a1f9e18ce6e69fcb757d014378b8986b1b0dfe3d): Change "It is done" to "It has begun" in 16:17
+- [`389b5bc4`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/389b5bc48c4ae3a440644371de0604fdf2701ab0): Changing "earth"/"ground" to "land" where it's a reference to Israel
+
 # 2.0.3
 
 - [`5c33991b`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/5c33991be7f29686ce5cfe174e6a0f9a2806828b): Fixing typo, adding "are"
