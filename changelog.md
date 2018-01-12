@@ -1,4 +1,4 @@
-# 2.0.5
+# 2.0.6
 
 - [`573283bc`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/573283bc2737e4bcd565d241ce7fa8b8ac1b22ab): Fix typo, remove extra space
 
