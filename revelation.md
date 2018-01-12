@@ -402,7 +402,7 @@ Now I, John, who heard and saw these things, when I had heard and seen I fell do
 
 # A serious warning
 
-“I myself testify to everyone who hears the words of the prophecy of this book: If any one adds to them, may God add to him the seven plagues written in this book! And if anyone takes away from the word s of the book of this prophecy, may God remove his share from the tree of life and out of the Holy City, that stand written in this book!” 
+“I myself testify to everyone who hears the words of the prophecy of this book: If any one adds to them, may God add to him the seven plagues written in this book! And if anyone takes away from the words of the book of this prophecy, may God remove his share from the tree of life and out of the Holy City, that stand written in this book!” 
 
 # John signs off
 
