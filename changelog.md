@@ -1,3 +1,7 @@
+# 2.0.5
+
+- [`573283bc`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/573283bc2737e4bcd565d241ce7fa8b8ac1b22ab): Fix typo, remove extra space
+
 # 2.0.4
 
 - [`a1f9e18c`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/a1f9e18ce6e69fcb757d014378b8986b1b0dfe3d): Change "It is done" to "It has begun" in 16:17
