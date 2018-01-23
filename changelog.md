@@ -1,3 +1,7 @@
+# 2.0.7
+
+- [`219dfa11`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/219dfa117303f33e1873f1bc5d2c8ae466327356): Change "spirits of demons" to "demonic spirits"
+
 # 2.0.6
 
 - [`573283bc`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/573283bc2737e4bcd565d241ce7fa8b8ac1b22ab): Fix typo, remove extra space
