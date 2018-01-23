@@ -296,7 +296,7 @@ Then the fifth angel poured out his bowl on the throne of the Beast, and his kin
 
 # The sixth bowl
 
-Then the sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, so that the way for the kings from the sun’s rising might be prepared. And I saw three unclean spirits, like frogs, coming out of the mouth of the dragon, out of the mouth of the Beast, and out of the mouth of the false prophet. For they are spirits of demons, performing signs, which go out to the kings of the whole inhabited earth, to gather them to the battle of that great day of God Almighty. (“Behold, I am coming like a thief. Blessed is the one who watches and guards his clothes, so that he not walk about naked and they see his shame.”) So he gathered them to the place called in Hebrew, Armagedon. 
+Then the sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, so that the way for the kings from the sun’s rising might be prepared. And I saw three unclean spirits, like frogs, coming out of the mouth of the dragon, out of the mouth of the Beast, and out of the mouth of the false prophet. For they are demonic spirits, performing signs, which go out to the kings of the whole inhabited earth, to gather them to the battle of that great day of God Almighty. (“Behold, I am coming like a thief. Blessed is the one who watches and guards his clothes, so that he not walk about naked and they see his shame.”) So he gathered them to the place called in Hebrew, Armagedon. 
 
 # The seventh bowl
 
