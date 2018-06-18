@@ -1,3 +1,9 @@
+# 2.0.8
+
+- [`b1ca9cff`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/b1ca9cff3a8bf99f0258680e96271cd42a232ddd): Change "dipped in blood" to "baptized in blood" in 19:13
+- [`db30292b`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/db30292b0a53d72fd12f3f90d2206d23c871fa6c): Change "go forth" to "come out" in 20:8
+- [`3043f3d0`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/3043f3d098b970f41ae4293ff7d392a7de76f22c): Change "went up on" to "arose up onto" in 20:9
+
 # 2.0.7
 
 - [`219dfa11`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/219dfa117303f33e1873f1bc5d2c8ae466327356): Change "spirits of demons" to "demonic spirits"
