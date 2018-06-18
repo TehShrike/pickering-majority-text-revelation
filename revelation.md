@@ -346,7 +346,7 @@ And he says to me, “Write: ‘Blessed are those who are invited to the wedding
 
 # The battle of Armageddon
 
-I saw the heaven opened, and behold, a white horse! And the One who sits on it, called Faithful and True, both judges and makes war with righteousness. Now His eyes were a flame of fire and on His head were many diadems, having names written, besides a written name that no one knows except Himself; and He was clothed with a robe that had been dipped in blood, and His name is called The Word of God. And the armies in heaven, clothed in fine linen, white, clean, followed Him on white horses. And out of His mouth goes a sharp, two-edged sword, so that with it He may strike the nations. And He Himself will shepherd them with a rod of iron. And He Himself treads the winepress of the fury of the wrath of God, the Almighty. And He has a name written on His robe and on His thigh, King of kings and Lord of lords! 
+I saw the heaven opened, and behold, a white horse! And the One who sits on it, called Faithful and True, both judges and makes war with righteousness. Now His eyes were a flame of fire and on His head were many diadems, having names written, besides a written name that no one knows except Himself; and He was clothed with a robe that had been baptized in blood, and His name is called The Word of God. And the armies in heaven, clothed in fine linen, white, clean, followed Him on white horses. And out of His mouth goes a sharp, two-edged sword, so that with it He may strike the nations. And He Himself will shepherd them with a rod of iron. And He Himself treads the winepress of the fury of the wrath of God, the Almighty. And He has a name written on His robe, even on His thigh, King of kings and Lord of lords! 
 
 # A feast for vultures
 
@@ -366,7 +366,7 @@ And I saw thrones, and they sat on them, and judgment was committed to them; als
 
 # The final rebellion
 
-Now when the thousand years are finished Satan will be released from his prison, and he will go forth to deceive the nations that are in the four corners of the earth, Gog and Magog, to gather them together to the war, whose number is like the sand of the sea. They went up on the breadth of the earth and surrounded the camp of the saints and the beloved city. And fire came down out of heaven from God and devoured them. And the devil, who deceived them, was thrown into the Lake of Fire and brimstone, where the Beast and the False prophet also are. And they will be tormented day and night forever and ever. 
+Now when the thousand years are finished Satan will be released from his prison, and he will come out to deceive the nations that are in the four corners of the earth, Gog and Magog, to gather them together to the war, whose number is like the sand of the sea. They arose up onto the breadth of the earth and surrounded the camp of the saints and the beloved city. And fire came down out of heaven from God and devoured them. And the devil, who deceived them, was thrown into the Lake of Fire and brimstone, where the Beast and the False prophet also are. And they will be tormented day and night forever and ever. 
 
 # The Great White Throne
 
