@@ -1,3 +1,7 @@
+# 2.0.9
+
+- [`48436f`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/48436fbf6856472fbfdb0c3fa8913cf2093b2591): Change "Jesus Christ’s revelation" to "The revelation of Jesus Christ" in 1:1
+
 # 2.0.8
 
 - [`b1ca9cff`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/b1ca9cff3a8bf99f0258680e96271cd42a232ddd): Change "dipped in blood" to "baptized in blood" in 19:13
