@@ -1,3 +1,7 @@
+# 2.0.10
+
+- [`9a56b343`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/9a56b343855882497b78adac114d4ebe0cbe9e54): change "even the testimony of Jesus Christ" to "and the testimony of Jesus Christ" in 1:2
+
 # 2.0.9
 
 - [`48436f`](https://github.com/TehShrike/pickering-majority-text-revelation/commit/48436fbf6856472fbfdb0c3fa8913cf2093b2591): Change "Jesus Christ’s revelation" to "The revelation of Jesus Christ" in 1:1
