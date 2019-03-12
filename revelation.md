@@ -1,6 +1,6 @@
 # Introduction
 
-The revelation of Jesus Christ, which God gave Him to show to His slaves—things that must occur shortly. And He communicated it, sending it by His angel to His slave John, who gave witness to the word of God, even the testimony of Jesus Christ—the things that He saw, both things that are and those that must happen after these. Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it; because the time is near. 
+The revelation of Jesus Christ, which God gave Him to show to His slaves—things that must occur shortly. And He communicated it, sending it by His angel to His slave John, who gave witness to the word of God, and the testimony of Jesus Christ—the things that He saw, both things that are and those that must happen after these. Blessed is he who reads and those who hear the words of the prophecy, and keep the things that are written in it; because the time is near. 
 
 John, to the seven churches that are in Asia: Grace and peace to you from Him who is and who was and who is coming, and from the seven-fold Spirit who is before His throne, and from Jesus Christ the faithful witness, the firstborn from among the dead, and the ruler of the kings of the earth. 
 
